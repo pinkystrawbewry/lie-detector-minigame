@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Lie Detector: Class Trial Edition</title>
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Lie Detector: Class Trial Edition</h1>
+
+  <div class="box" id="gameBox">
+    <p id="gameText"></p>
+    <div class="choices" id="choicesContainer"></div>
+    <div class="evidence" id="evidenceList"></div>
+  </div>
+
+  <div class="box" id="accuseBox" style="display: none;">
+    <p><strong>Siapa yang kamu tuduh sebagai pelaku?</strong></p>
+    <div class="suspect">
+      <button onclick="accuse('Reza')">Reza</button>
+      <button onclick="accuse('Alya')">Alya</button>
+      <button onclick="accuse('Nino')">Nino</button>
+    </div>
+  </div>
+
+  <div class="result" id="resultBox">
+    <h2 id="resultTitle"></h2>
+    <p id="resultMessage"></p>
+    <button onclick="restartGame()">Main Lagi</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
