@@ -71,6 +71,7 @@ AI membantu merancang struktur investigasi dan alur cerita berdasarkan input log
 Beberapa tantangan teknis dan penyusunan struktur pilihan game dibantu oleh AI untuk menyusun solusi yang lebih efisien, khususnya dalam menyusun interaksi logis antara pemain dan sistem tuduhan.
 
 📈 Dampak Penggunaan AI
+
 Efisiensi waktu: Proses brainstorming dan iterasi narasi menjadi lebih cepat.
 
 Konsistensi alur: Narasi dan gameplay tetap terhubung secara tematik dan logis.
