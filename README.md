@@ -61,20 +61,23 @@ Untuk deploy ke GitHub Pages sendiri:
 
 ---
 
-## 🤖 AI Support Explanation
+🤖 AI Contribution in Development
+Selama proses pengembangan Lie Detector: Class Trial Edition, AI (ChatGPT) digunakan sebagai asisten kreatif dan teknis dalam lingkup berikut:
 
-Penggunaan AI (ChatGPT) mendukung proyek ini dalam beberapa aspek:
+🧠 Narasi & Alur Game
+AI membantu merancang struktur investigasi dan alur cerita berdasarkan input logika sederhana yang kemudian dikembangkan menjadi pengalaman deduktif yang interaktif dan bertahap.
 
-- **Desain alur cerita dan gameplay**: AI membantu menyusun alur naratif investigasi secara logis dan menarik.
-- **Debugging**: Menyelesaikan bug seperti error saat interaksi pilihan dan tuduhan.
-- **Optimalisasi UX/UI**: AI memberi saran struktur dan estetika agar konsisten dengan tema detektif.
-- **Dokumentasi**: README ini ditulis dan disusun berdasarkan masukan AI dengan format yang sesuai rubrik penilaian proyek.
+🛠️ Dukungan Pengembangan
+Beberapa tantangan teknis dan penyusunan struktur pilihan game dibantu oleh AI untuk menyusun solusi yang lebih efisien, khususnya dalam menyusun interaksi logis antara pemain dan sistem tuduhan.
 
-### 📈 Dampak Penggunaan AI
-- Mempercepat tahap perancangan dan penyusunan kode.
-- Meningkatkan kualitas narasi dan logika gameplay.
-- Membantu pengembangan dokumentasi teknis yang profesional dan terstruktur.
+📈 Dampak Penggunaan AI
+Efisiensi waktu: Proses brainstorming dan iterasi narasi menjadi lebih cepat.
 
+Konsistensi alur: Narasi dan gameplay tetap terhubung secara tematik dan logis.
+
+Dokumentasi rapi: AI juga berperan dalam menyusun README, instruksi setup, dan presentasi berbasis rubrik penilaian.
+
+AI tidak menulis keseluruhan proyek, namun berperan sebagai co-pilot yang mempercepat proses berpikir dan produksi.
 ---
 
 🎮 Selamat bermain dan semoga kamu berhasil mengungkap pelaku!
