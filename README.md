@@ -51,7 +51,7 @@ Permainan ini menggabungkan elemen logika deduktif, narasi misteri, dan interaks
    - `script.js`
 3. Buka `index.html` langsung di browser (Chrome/Firefox/Edge).
 4. **Atau mainkan langsung online di GitHub Pages:**
-   👉 [https://shokhifahtul.github.io/lie-detector-game/](https://shokhifahtul.github.io/lie-detector-game/)
+   👉 [https://pinkystrawbewry.github.io/lie-detector-minigame/](https://pinkystrawbewry.github.io/lie-detector-minigame/)
 
 Untuk deploy ke GitHub Pages sendiri:
 - Upload semua file ke repositori GitHub publik.
