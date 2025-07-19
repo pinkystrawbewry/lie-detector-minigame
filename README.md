@@ -12,7 +12,7 @@ Lie Detector: Class Trial Edition adalah mini-game berbasis web di mana pemain b
 Permainan ini menggabungkan elemen logika deduktif, narasi misteri, dan interaksi langsung dengan pengguna. Proyek ini dirancang untuk membangun pemahaman logis dan kemampuan mengambil keputusan secara interaktif.
 
 🟢 **Mainkan langsung di sini:**  
-👉 [https://shokhifahtul.github.io/lie-detector-game/](https://shokhifahtul.github.io/lie-detector-game/)
+👉 [https://pinkystrawbewry.github.io/lie-detector-minigame/](https://pinkystrawbewry.github.io/lie-detector-minigame/)
 
 ---
 
